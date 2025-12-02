@@ -1,0 +1,4 @@
+[wokwi]
+board = "esp32dev"
+firmware = "./main.py"
+elf = "build/esp32dev.elf"
